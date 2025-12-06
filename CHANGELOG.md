@@ -19,7 +19,7 @@ vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 
 ### 3. A Matemática Financeira (Finanças Quantitativas)
 * **O que faz:** Agora que temos as melhores ações (ex: 10 papéis), quanto dinheiro colocamos em cada uma? 50% em uma? 10% em outra?
-* **Objetivo:** Um cálculo de otimização definirá os pesos exatos para ter a carteira com o **menor risco possível** (Mínima Variância).
+* **Objetivo:** Um cálculo de otimização definirá os pesos exatos para ter a carteira com o **menor risco possível** (Mínima Variância) e os **maiores dividendos** .
 * **Resultado:** Uma carteira que oscila pouco e gera renda constante.
 
 ---
