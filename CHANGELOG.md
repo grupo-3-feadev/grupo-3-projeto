@@ -24,8 +24,3 @@ vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 
 ---
 
-
-## 🤝 Sugestão de Divisão de Tarefas
-* **Dados:** Baixar histórico de preços e filtrar os dividendos (API Yahoo Finance).
-* **Clustering (IA):** Criar o código que agrupa as ações parecidas (Scikit-Learn).
-* **Otimização:** Fazer a matemática que define as porcentagens ideais da carteira (Scipy).
