@@ -6,7 +6,7 @@
 ---
 
 ## Como vai funcionar? 
-vamos criar um funil de 3 etapas que nos permite escolher as melhores ações para se investir em 3 etapas:
+vamos criar um funil de 3 etapas que nos permite escolher as melhores ações para se investir:
 
 ### 1. O Filtro de Qualidade 
 * **O que faz:** Só passam neste filtro empresas que pagam bons dividendos e são sólidas (ex: Bancos, Elétricas, Saneamento).
