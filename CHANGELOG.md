@@ -14,10 +14,10 @@ vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 
 ### 2. A Seleção Inteligente (Machine Learning / Clustering)
 * **O que faz:** O algoritmo vai analisar o comportamento das ações e separa elas em "famílias" diferentes.
-* **Objetivo:** O vai selecionar apenas a **melhor ação** de cada "família".
+* **Objetivo:** O algoritmo vai selecionar apenas a **melhor ação** de cada "família".
 * **Resultado:** Diversificação das ações permitindo que o investimento não fique alocado todo no mesmo lugar.
 
-### 3. A Matemática Financeira 
+### 3. A Matemática Financeira (Finanças Quantitativas)
 * **O que faz:** Agora que temos as melhores ações (ex: 10 papéis), quanto dinheiro colocamos em cada uma? 50% em uma? 10% em outra?
 * **Objetivo:** Um cálculo de otimização define os pesos exatos para ter a carteira com o **menor risco possível** (Mínima Variância).
 * **Resultado:** Uma carteira que oscila pouco e gera renda constante.
