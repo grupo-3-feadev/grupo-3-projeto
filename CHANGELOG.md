@@ -1,4 +1,4 @@
-# Ideia 1 do projeto: Como criar uma carteira previdenciária do zero?
+# Ideia 1 do projeto: Como criar uma carteira previdenciária do zero? (06/12/2025)
 
 ## A Ideia
  Usar dados e matemática para montar a carteira de aposentadoria que gere a maior renda possível: **segura, diversificada e focada em dividendos.**
