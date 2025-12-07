@@ -1,12 +1,12 @@
 # Ideia 1 do projeto: Como criar uma carteira previdenciária do zero?
 
 ## A Ideia
- usar dados e matemática para montar a carteira de aposentadoria que gere a maior renda possível: **segura, diversificada e focada em dividendos.**
+ Usar dados e matemática para montar a carteira de aposentadoria que gere a maior renda possível: **segura, diversificada e focada em dividendos.**
 
 ---
 
 ## Como vai funcionar? 
-vamos criar um funil de 3 etapas que nos permite escolher as melhores ações para se investir:
+Vamos criar um funil de 3 etapas que nos permite escolher as melhores ações para se investir:
 
 ### 1. O Filtro de Qualidade 
 * **O que faz:** Só passam neste filtro empresas que pagam bons dividendos e são sólidas (ex: Bancos, Elétricas, Saneamento).
