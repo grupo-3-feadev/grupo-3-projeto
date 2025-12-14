@@ -24,3 +24,9 @@ Vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 
 ---
 
+# (14/12/2025)
+
+* Adicionar etapa de teste de risco (+ para cenários extremos) - **Etapa de validação**
+* Definir a categorização das famílias para clustering
+
+
