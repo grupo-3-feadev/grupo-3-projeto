@@ -1,11 +1,11 @@
-# Ideia 1 do projeto: Como criar uma carteira previdenciária do zero? (06/12/2025)
+# Projeto: Como criar uma carteira previdenciária do zero? (06/12/2025)
 
 ## A Ideia
  Usar dados e matemática para montar a carteira de aposentadoria que gere a maior renda possível: **segura, diversificada e focada em dividendos.**
 
 ---
 
-## Como vai funcionar? 
+## Como Vai Funcionar? 
 Vamos criar um funil de 3 etapas que nos permite escolher as melhores ações para se investir:
 
 ### 1. O Filtro de Qualidade 
@@ -24,9 +24,13 @@ Vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 
 ---
 
-# (14/12/2025)
+# Atualização do Projeto (14/12/2025)
 
-* Adicionar etapa de teste de risco (+ para cenários extremos) - **Etapa de validação**
-* Definir a categorização das famílias para clustering
-
+* Adicionado a "Etapa de Validação" em que será feito testes de risco (+ para cenários extremos), onde veremos como a carteira montada irá se comportar e assim ter um veredito da sua qualidade
+* Definir a categorização dos conjuntos para a aplicação do clustering
+  
+**Arquitetura da Base de Dados:** 
+* Usaremos a biblioteca "fundamentus" do python na etapa 1 "Filtro de Qualidade" para analisar os dados da empresa atualmente e filtrar elas pela perenidade e solidez
+* Em seguinda usaremos a biblioteca "yfinance" na etapa 2 "A Seleção Inteligente" para analisar como as empresas que passaram no primeiro filtro se comportaram em determinado intervalo de tempo decidido, assim aplicando o método de clustering
+  
 
