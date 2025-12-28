@@ -45,6 +45,5 @@ Vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 * **Script 3:** Com base no DataFrame do script 2, este código usa um mecanismo de busca através da biblioteca yfinance, onde são obtidos os valores das ações das empresas nos últimos 5 anos. Tais dados serão utilizados na aplicação do método de clustering.
   Segue o link para o arquivo .py: [integracao_yfinance.py](./integracao_yfinance.py)
 
-
-
+**Obs:** nos códigos usamos algumas empresas de teste para para observar o comportamento do script, se ele estava rodando da forma que imaginávamos.
 
