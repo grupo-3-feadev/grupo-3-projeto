@@ -32,5 +32,19 @@ Vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 **Arquitetura da Base de Dados:** 
 * Usaremos a biblioteca "fundamentus" do python na etapa 1 "Filtro de Qualidade" para analisar os dados da empresa atualmente e filtrar elas pela perenidade e solidez
 * Em seguinda usaremos a biblioteca "yfinance" na etapa 2 "A Seleção Inteligente" para analisar como as empresas que passaram no primeiro filtro se comportaram em determinado intervalo de tempo decidido, assim aplicando o método de clustering
-  
+
+# Atualização do Projeto (28/12/2025)
+
+## Versão [1.0.0] dos códigos:
+
+* **Script 1:** Com base em métricas de perenidade de ativos, será aplicado um filtro que seliciona apenas as empresas que tenham valores positivos perante estas métricas, as empresas selecionadas serão colocadas em um DataFrame. **(este código ainda não está finalizado)**
+
+* **Script 2:** Dadas as empresas que passaram pelo filtro de perenidade, será criado um DataFrame e aplicado um outro  filtro para manter apenas empresas de setores específicos, assim podendo manipular a diversidade dos nossos ativos.
+  Segue o link para o arquivo .py: [filtro_setor.py](./filtro_setor.py)
+
+* **Script 3:** Com base no DataFrame do script 2, este código usa um mecanismo de busca através da biblioteca yfinance, onde são obtidos os valores das ações das empresas nos últimos 5 anos. Tais dados serão utilizados na aplicação do método de clustering.
+  Segue o link para o arquivo .py: [integracao_yfinance.py](./integracao_yfinance.py)
+
+
+
 
