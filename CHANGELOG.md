@@ -47,3 +47,9 @@ Vamos criar um funil de 3 etapas que nos permite escolher as melhores ações pa
 
 **Obs:** nos códigos usamos algumas empresas de teste para para observar o comportamento do script, se ele estava rodando da forma que imaginávamos.
 
+# Atualização do Projeto (04/01/2026)
+
+## Versão [1.1.0] dos códigos:
+
+* Esta versão unifica os scripts 1, 2 e 3, utilizando o mesmo exemplo dos códigos anteriores para demonstrar os resultados. O script exporta automaticamente um arquivo Excel para a pasta 'Downloads', contendo todos os dados necessários tanto para a análise da carteira quanto para a futura aplicação do método de clustering.
+  Segue o link para o arquivo. py: 
