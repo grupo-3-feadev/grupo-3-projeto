@@ -289,4 +289,5 @@ def main():
     print("[SUCESSO] Processo concluído.")
 
 if __name__ == "__main__":
+
     main()
