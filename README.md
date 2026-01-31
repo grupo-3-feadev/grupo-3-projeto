@@ -38,6 +38,6 @@ Desenvolver um **pipeline quantitativo replicável** para seleção e alocação
 ---
 
 ## ⚠️ Aviso
-### Projeto com **fins educacionais**.  
-### Não constitui recomendação de investimento.
+**Projeto com fins educacionais**.  
+**Não constitui recomendação de investimento.**
 
