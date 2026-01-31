@@ -1,3 +1,5 @@
+#código premilinar, alterado na versão final
+
 import yfinance as yf
 import pandas as pd
 import tabulate as tb
@@ -47,4 +49,5 @@ print(tabela_completa)
 largura_tabela = len(tabela_filtro.split('\n')[0])
 titulo = "--- Tabela Filtrada ---"
 print("\n" + titulo.center(largura_tabela))
+
 print(tabela_filtro)
