@@ -4,7 +4,7 @@ Projeto de construção automatizada de uma carteira previdenciária, utilizando
 ## 📌 Objetivo
 Desenvolver um pipeline quantitativo replicável para seleção e alocação de ações da B3, reduzindo vieses subjetivos e priorizando geração de renda recorrente.
 
-##⚙️ Metodologia (Resumo)
+## ⚙️ Metodologia (Resumo)
 Coleta de dados via web scraping do Fundamentus
 Filtros de qualidade:
 Setores perenes
@@ -17,7 +17,8 @@ Limite de 25% por ativo
 
 ## 🧠 Tecnologias
 Python
-Pandas, NumPy
+Pandas
+NumPy
 Scikit-learn
 Requests, BeautifulSoup
 
