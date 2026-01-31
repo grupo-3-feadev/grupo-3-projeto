@@ -1,3 +1,5 @@
+#código premilinar, alterado na versão final
+
 import pandas as pd
 import yfinance as yf
 import subprocess
